@@ -4,7 +4,7 @@ I'm a full stack developer with interest in artificial intelligence, problem sol
 
 #### Some of my key skills include:- 
 
-`C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Go`, `Django`, `Flask`, `React`, `Angular`, `Express`, `NodeJS`, `MongoDB`, `SQL`, `HTML`, `CSS`, `Bootstrap`, `JQuery`, `JSON`, `AJAX`, `Android`, `XML`, `GraphQL`, `REST API`, `Git`
+`C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Django`, `Flask`, `React`, `Express`, `NodeJS`, `HTML`, `CSS`, `Bootstrap`, `JQuery`, `JSON`, `AJAX`, `Android`, `GraphQL`, `REST API`, `Git`
 
 #### Want to connect with me?
 - 📓Check my Repositories and create `Pull Requests` for contributing and if u like it, hit that ⭐ button alongside the repository
