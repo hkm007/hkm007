@@ -1,10 +1,10 @@
 ### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
 
-I'm a full stack developer with interest in artificial intelligence, problem solving and software development. Have a working experience as a software development intern at IIT Bombay and web development intern with a growing startup.
+I'm a full stack developer with interest in problem solving and software development. Have a working experience as a software development intern at IIT Bombay and web development intern with a growing startup.
 
 #### Some of my key skills include:- 
 
-`C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Django`, `Flask`, `React`, `Express`, `NodeJS`, `HTML`, `CSS`, `Bootstrap`, `JQuery`, `JSON`, `AJAX`, `Android`, `GraphQL`, `REST API`, `Git`
+`C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Django`, `Flask`, `React`, `Express`, `NodeJS`, `HTML`, `CSS`, `Bootstrap`, `JQuery`, `JSON`, `AJAX`, `GraphQL`, `REST API`, `Git`
 
 #### Want to connect with me?
 - 📓Check my Repositories and create `Pull Requests` for contributing and if u like it, hit that ⭐ button alongside the repository
