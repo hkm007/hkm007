@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
 
-A pre-final year computer science undergrad with excellent problem solving skill and can write cleaner and efficient code. Have a working experience as software development intern at IIT Bombay. Posseses good understanding of computer science fundamentals like data structures and algorithms, object orientd programming and operating system.
+I'm a pre-final year computer science undergrad with excellent problem solving skill and can write cleaner and efficient code. Have a working experience as software development intern at IIT Bombay. Posseses good understanding of computer science fundamentals like data structures and algorithms, object orientd programming and operating system.
 
 #### Some of my key skills include:- 
 
