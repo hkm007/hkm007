@@ -39,7 +39,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 <img src="https://github-readme-stats.vercel.app/api?username=hkm007&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkm007&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkm007&hide=html,css&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
