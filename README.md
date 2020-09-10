@@ -29,7 +29,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 #### Know more about me:-
 - 💻 Competitive coding enthusiast, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
-- 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay** and **Mentorly Inc.**
+- 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay** and **Koshrita Internet Labs Pvt. Ltd.**
 - 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
 - 🔭 Currently working on mastering skills of `Data structures and algorithms and cs fundamentals`.
 - 🤔 Favourite ***`hobby`***:- `Travelling`.
