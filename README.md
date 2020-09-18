@@ -31,7 +31,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 - 💻 Competitive coding enthusiast, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
 - 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay** and **Koshrita Internet Labs Pvt. Ltd.**
 - 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
-- 🔭 Currently working on mastering skills of `Data structures and algorithms and cs fundamentals`.
+- 🔭 Currently working on mastering skills of `Data structures, Algorithms and CS fundamentals`.
 - 🤔 Favourite ***`hobby`***:- `Travelling`.
 - 💬 Ask me anything about **`Physics, Astronomy and Algorithms`** in general 
 - 📧 Email id? [hkm0072001@gmail.com](hkm0072001@gmail.com)
@@ -43,6 +43,6 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 ## Social Links:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/himanshu-mishra-249785188)  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/_hkm007_/) 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/hkm007/)  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/_hkm007_/) 
 
 #### Have a great day ☺️
