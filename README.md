@@ -21,7 +21,6 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -31,10 +30,8 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 #### Know more about me:-
 - 💻 Competitive coding enthusiast, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
-- 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay** and **Koshrita Internet Labs Pvt. Ltd.**
-- 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
+- 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay**.
 - 🔭 Currently working on mastering skills of `Data structures, Algorithms and CS fundamentals`.
-- 🤔 Favourite ***`hobby`***:- `Travelling`.
 - 💬 Ask me anything about **`Physics, Astronomy and Algorithms`** in general 
 - 📧 Email id? [hkm0072001@gmail.com](hkm0072001@gmail.com)
   <br>
