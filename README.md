@@ -39,7 +39,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Know more about me:-
-- 💻 Did my undergrad in `COmputer Science` from **National Institute of Technology, Agartala**.
+- 💻 Did my undergrad in `Computer Science` from **National Institute of Technology, Agartala**.
 - 💼 Previously worked as a **`Summer Intern`** at **IIT Bombay**.
 - 🔭 Currently working as a **`Software Development Engineer`** at **Amazon**.
 - 💬 Ask me anything about **`Coding, Cricket and Traveling`** in general. 
