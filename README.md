@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px"> I'm Himanshu
 
-I'm a computer science undergrad with excellent problem solving skill and can write cleaner and efficient code. Have a working experience as software development intern at IIT Bombay. Possesses good understanding of computer science fundamentals like data structures and algorithms, object oriented programming and operating system. 
+I'm a computer science undergrad with excellent problem solving skill and can write cleaner and efficient code. Interested in full stack development, system design and software architecture.
 
 Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you like it.
 
@@ -10,6 +10,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 <code><img height="25" src="https://bigclasses.com/blog/wp-content/uploads/2013/04/Java_Logo.jpg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <br>
@@ -17,27 +18,31 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <br>
-#### Other Tools:-
+#### Web Development:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
 #### Database Technologies:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<br>
+#### Other Technologies:-
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Know more about me:-
 - 💻 Competitive coding enthusiast, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
-- 💼 Previously worked as a **`Software Development Intern`** at **IIT Bombay**.
-- 🔭 Currently working on mastering skills of `Data structures, Algorithms and Software Architecture`.
-- 💬 Ask me anything about **`Physics, Astronomy and Algorithms`** in general 
-- 📧 Email id? [hkm0072001@gmail.com](hkm0072001@gmail.com)
+- 💼 Previously worked as a **`Summer Intern`** at **IIT Bombay**.
+- 🔭 Currently working as a **`Software Engineer`** at **Amazon**.
+- 💬 Ask me anything about **`Coding, Cricket and Traveling`** in general 
   <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hkm007&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
