@@ -2,7 +2,7 @@
 
 I'm a computer science undergrad with excellent problem solving skill and can write cleaner and efficient code. Interested in full stack development, system design and software architecture.
 
-Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you like it.
+Check out my repos to know my skills better. Hit a ⭐ if you like it.
 
 #### Programming Languages I use:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
