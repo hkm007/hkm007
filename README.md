@@ -34,7 +34,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 #### Know more about me:-
 - 💼 Currently working as a **Software Development Engineer** at **`Amazon`**.
 - 🔭 Previously worked as a **Summer Intern** at **`IIT Bombay`**.
-- 💻 Did my undergrad in **Computer Science** from **`NIT, Agartala`**.
+- 💻 Did my undergrad in **Computer Science** from **`NIT Agartala`**.
 - 💬 Ask me anything about **`Coding, Cricket and Traveling`** in general. 
   <br>
 
