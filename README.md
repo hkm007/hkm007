@@ -27,12 +27,10 @@ Check out my repos to know my skills better. Hit a ⭐ if you like it.
 - 💼 Currently working as a **Software Development Engineer** at **`Amazon`**.
 - 🔭 Previously worked as a **Summer Intern** at **`IIT Bombay`**.
 - 💻 Did my undergrad in **Computer Science** from **`NIT Agartala`**.
-- 💬 Ask me anything about **`Coding, Cricket and Traveling`** in general. 
+- 💬 Love to have discussions around **`Algorithms, Physics and Traveling`** in general. 
   <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hkm007&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkm007&layout=compact&hide=html,css,ejs&max=7&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=hkm007&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkm007&layout=compact&hide=html,css,ejs&max=7&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
