@@ -10,6 +10,7 @@ Check out my repos to know my skills better. Hit a ⭐ if you like it.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <br>
 #### Frameworks and Tools I use:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -31,9 +32,6 @@ Check out my repos to know my skills better. Hit a ⭐ if you like it.
 - 🔭 Previously worked as a **Summer Intern** at **`IIT Bombay`**.
 - 💻 Did my undergrad in **Computer Science** from **`NIT Agartala`**.
 - 💬 Love to have discussions around **`Algorithms, Physics and Traveling`** in general. 
-  
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkm007&layout=compact&hide=html,css,ejs&max=7&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
