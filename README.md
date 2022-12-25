@@ -1,8 +1,6 @@
 ### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px"> I'm Himanshu
 
-I'm a software engineer who loves to solve real life problems using latest technologies that involves complex algorithmic design and computer science fundamentals. Exploring large scale distributed systems, software design patterns, microservices architecture and cloud computing.
-
-Check out my repos to know my skills better. Hit a ⭐ if you like it.
+I'm a software engineer who loves to solve real life problems using latest technologies that involves complex algorithmic design. Exploring large scale distributed systems, microservices architecture, design patterns and cloud computing.
 
 #### Programming Languages:-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
