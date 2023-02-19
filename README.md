@@ -21,12 +21,6 @@ I'm a software engineer who loves to solve real life problems using latest techn
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-#### Know more about me:-
-- 💼 Currently working as a **Software Development Engineer** at **`Amazon`**.
-- 🔭 Previously worked as a **Summer Intern** at **`IIT Bombay`**.
-- 💻 Did my undergrad in **Computer Science** from **`NIT Agartala`**.
-- 💬 Love to have discussions around **`Algorithms, Physics and Traveling`** in general. 
-
 ## Social Links:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/hkm007/)  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/_hkm007_/) 
