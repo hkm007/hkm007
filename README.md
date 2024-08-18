@@ -3,7 +3,7 @@
 A software engineer and a computer science graduate with keen interest in problem solving, software architecture, distributed systems and AI.
 
 #### Tools & Technologies I use:-
-`Java, Spring Boot, React.js, Next.js, Node.js, AWS, Git`
+`Java`, `Spring Boot`, `React.js`, `Node.js`, `MySQL`. `MongoDB`, `AWS`, `Git`
 
 ## Social Links:
 
