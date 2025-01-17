@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px"> I'm Himanshu
 
-A software engineer and a computer science graduate with keen interest in problem solving, software architecture, distributed systems and AI.
+A software engineer with keen interest in problem solving, software architecture, distributed systems and machine learning.
 
 #### Tools & Technologies I use:-
-`Java`, `Spring Boot`, `React.js`, `Node.js`, `MySQL`, `MongoDB`, `AWS`, `Git`
+`Java`, `Spring Boot`, `React`, `Node.js`, `MySQL`, `Firebase`, `MongoDB`, `DynamoDB`, `AWS`, `Git`
 
 ## Social Links:
 
